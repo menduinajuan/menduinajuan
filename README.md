@@ -11,7 +11,7 @@
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=menduinajuan&show_icons=true&theme=radical)
 
 ## 📊 Lenguajes más utilizados  
-[![Top Langs](https://github-readme-stats-mirror.vercel.app/api/top-langs/?username=menduinajuan&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=menduinajuan&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🌐 Contacto  
 - LinkedIn: [https://www.linkedin.com/in/juan-mendui%C3%B1a-17807b18b/](https://www.linkedin.com/in/juan-mendui%C3%B1a-17807b18b/)  
