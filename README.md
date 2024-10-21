@@ -1,4 +1,4 @@
-# Hola, soy Juan Menduiña
+# Hola, soy Juan Menduiña !
 
 - 🔭 Magíster en Economía (UNLP) y Magíster en Econometría (UTDT)
 - 🌱 Actualmente, estudiando Licenciatura Informática (UNLP) 
@@ -15,4 +15,5 @@
 
 ## 🌐 Contacto  
 - LinkedIn: [https://www.linkedin.com/in/juan-mendui%C3%B1a-17807b18b/](https://www.linkedin.com/in/juan-mendui%C3%B1a-17807b18b/)  
-- GitHub: [github.com/menduinajuan](https://github.com/menduinajuan) 
+- GitHub: [github.com/menduinajuan](https://github.com/menduinajuan)
+- GitLab: [gitlab.com/menduinajuan](https://gitlab.com/menduinajuan)
