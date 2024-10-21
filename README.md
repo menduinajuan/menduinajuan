@@ -1,7 +1,7 @@
 # Hola, soy Juan Menduiña
 
 - 🔭 Economista y, actualmente, estudiando en Licenciatura en Informática 
-- 📫 Puedes contactarme en: [email@example.com](mailto:menduinajuan@gmail.com) 
+- 📫 Puedes contactarme en: [menduinajuan@gmail.com](mailto:menduinajuan@gmail.com) 
 
 ## 🚀 Tecnologías y herramientas
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -16,5 +16,5 @@
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=menduinajuan&show_icons=true&theme=radical)
 
 ## 🌐 Contacto  
-- LinkedIn: [Tu perfil](https://www.linkedin.com/in/juan-mendui%C3%B1a-17807b18b/)  
-- GitHub: [github.com/TUUSUARIO](https://github.com/menduinajuan) 
+- LinkedIn: [https://www.linkedin.com/in/juan-mendui%C3%B1a-17807b18b/](https://www.linkedin.com/in/juan-mendui%C3%B1a-17807b18b/)  
+- GitHub: [github.com/menduinajuan](https://github.com/menduinajuan) 
