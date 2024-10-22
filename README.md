@@ -12,6 +12,9 @@
 ## 📊 Lenguajes más utilizados  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=menduinajuan&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+## 🏆 Trofeos
+![GitHub Trofeos](https://github-profile-trophy.vercel.app/?username=menduinajuan&theme=monokai)
+
 ## 🌐 Contacto  
 - LinkedIn: [https://www.linkedin.com/in/juan-mendui%C3%B1a-17807b18b/](https://www.linkedin.com/in/juan-mendui%C3%B1a-17807b18b/)
 - E-Mail: [menduinajuan@gmail.com](mailto:menduinajuan@gmail.com) 
