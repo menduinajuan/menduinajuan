@@ -20,7 +20,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=menduinajuan&layout=compact&theme=radical&cache_seconds=3600)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🏆 Trofeos / Trophies
-![GitHub Trofeos](https://github-profile-trophy.vercel.app/?username=menduinajuan&theme=monokai)
+![GitHub Trofeos](https://github-profile-trophy.vercel.app/?username=menduinajuan&theme=monokai&cache_seconds=3600)
 
 ## 🌐 Contacto / Contact
 - LinkedIn: [https://www.linkedin.com/in/juan-mendui%C3%B1a-17807b18b/](https://www.linkedin.com/in/juan-mendui%C3%B1a-17807b18b/)
