@@ -1,8 +1,7 @@
-| Español                                                                 | English                                                                 |
 |------------------------------------------------------------------------|------------------------------------------------------------------------|
 | <h1 align="center">Hola, soy Juan Menduiña 👋</h1>                     | <h1 align="center">Hi, I'm Juan Menduiña 👋</h1>                      |
-| - 🔭 Licenciado en Economía (UNLP), Magíster en Economía (UNLP) y Magíster en Econometría (UTDT) | - 🔭 Bachelor in Economics (UNLP), Master in Economics (UNLP), and Master in Econometrics (UTDT) |
-| - 🌱 Actualmente, estudiando Licenciatura Informática (UNLP)           | - 🌱 Currently studying Computer Science (UNLP)                       |
+| - 🔭 Licenciado en Economía (UNLP), Magíster en Economía (UNLP) y Magíster en Econometría (UTDT) | - 🔭 Bachelor's Degree in Economics (UNLP), Master's Degree in Economics (UNLP) and Master's Degree in Econometrics (UTDT) |
+| - 🌱 Actualmente, estudiando Licenciatura Informática (UNLP) y Licenciatura en Sistemas (UNLP)           | - 🌱 Currently studying Bachelor's Degree in Computer Science (UNLP) and Bachelor's Degree in Systems (UNLP)                       |
 
 ---
 
