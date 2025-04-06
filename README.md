@@ -22,7 +22,10 @@
 ## 🏆 Trofeos / Trophies
 ![GitHub Trofeos](https://github-profile-trophy.vercel.app/?username=menduinajuan&theme=monokai&cache_seconds=3600)
 
-![GIF de Programación](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+<div align="center">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="GIF de Programación" width="400">
+    <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="GIF de Trabajo en Equipo" width="400">
+</div>
 
 ## 🌐 Contacto / Contact
 - LinkedIn: [https://www.linkedin.com/in/juan-mendui%C3%B1a-17807b18b/](https://www.linkedin.com/in/juan-mendui%C3%B1a-17807b18b/)
