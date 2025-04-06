@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Juan Menduiña 👋 | Hi, I'm Juan Menduiña 👋</h1>
+<h1 align="center">👋 Hola, soy Juan Menduiña | Hi, I'm Juan Menduiña 👋</h1>
 
 ### Español
 - 🔭 Licenciado en Economía (UNLP), Magíster en Economía (UNLP) y Magíster en Econometría (UTDT)
