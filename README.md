@@ -22,6 +22,13 @@
 ## 🏆 Trofeos / Trophies
 ![GitHub Trofeos](https://github-profile-trophy.vercel.app/?username=menduinajuan&theme=monokai&cache_seconds=3600)
 
+## 📝 Publicaciones Científicas / Scientific Publications
+
+- [Simulations of Policy Responses During the COVID-19 Crisis in Argentina: Effects on Socioeconomic Indicators](https://www.microsimulation.pub/articles/00269)  
+  *International Journal of Microsimulation*
+- [Evolución de la pobreza monetaria en Colombia: Un análisis de descomposiciones](https://doi.org/10.24215/18521649e026)  
+  *Revista Económica, Facultad de Ciencias Económicas, Universidad Nacional de La Plata*
+
 <div align="center">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="GIF de Programación" width="400">
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZ5OHRiOHJjdnY2NXFzMXp4dGk2ejhib3Z0YzBpOGRpYTVwdDhiciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11IRfBXYw64gZW/giphy.gif" alt="GIF de Trabajo en Equipo" width="400">
