@@ -22,6 +22,13 @@
 ## 🏆 Trofeos / Trophies
 ![GitHub Trofeos](https://github-profile-trophy.vercel.app/?username=menduinajuan&theme=monokai&cache_seconds=3600)
 
+![Visitas al perfil](https://komarev.com/ghpvc/?username=menduinajuan&label=Visitas%20al%20perfil&color=blue&style=flat-square)
+![Seguidores](https://img.shields.io/github/followers/menduinajuan?style=flat-square&color=green)
+![Repositorios Públicos](https://img.shields.io/github/repos/menduinajuan?style=flat-square&color=orange)
+![GIF de Programación](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+## 📊 Gráfico de Contribuciones / Contribution Graph
+[![Gráfico de Contribuciones](https://activity-graph.herokuapp.com/graph?username=menduinajuan&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## 🌐 Contacto / Contact
 - LinkedIn: [https://www.linkedin.com/in/juan-mendui%C3%B1a-17807b18b/](https://www.linkedin.com/in/juan-mendui%C3%B1a-17807b18b/)
 - E-Mail: [menduinajuan@gmail.com](mailto:menduinajuan@gmail.com)
