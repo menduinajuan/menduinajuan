@@ -24,7 +24,7 @@
 
 <div align="center">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="GIF de Programación" width="400">
-    <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="GIF de Trabajo en Equipo" width="400">
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZ5OHRiOHJjdnY2NXFzMXp4dGk2ejhib3Z0YzBpOGRpYTVwdDhiciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11IRfBXYw64gZW/giphy.gif" alt="GIF de Trabajo en Equipo" width="400">
 </div>
 
 ## 🌐 Contacto / Contact
