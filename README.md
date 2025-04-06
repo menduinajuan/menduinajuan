@@ -17,7 +17,7 @@
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=menduinajuan&show_icons=true&theme=radical)
 
 ## 📊 Lenguajes más utilizados / Most Used Lenguages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=menduinajuan&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=menduinajuan&layout=compact&theme=radical&cache_seconds=3600)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🏆 Trofeos / Trophies
 ![GitHub Trofeos](https://github-profile-trophy.vercel.app/?username=menduinajuan&theme=monokai)
