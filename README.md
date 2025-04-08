@@ -24,11 +24,11 @@
 
 ## 📝 Publicaciones Científicas / Scientific Publications
 
-- [Accelerating Economic Research with Julia](http://dx.doi.org/10.13140/RG.2.2.32709.05604)
+- [Glüzmann, P., Menduiña, J., Monzón, N., Panigo, D. T., Panigo, N., Tcach, A. y Úngaro, A. (2023). Accelerating Economic Research with Julia](http://dx.doi.org/10.13140/RG.2.2.32709.05604)  s
   *JuliaCon 2023, Massachusets Institute of Technology (MIT), Boston, US*
-- [Simulations of Policy Responses During the COVID-19 Crisis in Argentina: Effects on Socioeconomic Indicators](https://www.microsimulation.pub/articles/00269)
+- [Cruces, G., Martínez-Correa, J., Menduiña, J. y Puig, J. (2022). Simulations of Policy Responses During the COVID-19 Crisis in Argentina: Effects on Socioeconomic Indicators](https://www.microsimulation.pub/articles/00269)  
   *International Journal of Microsimulation*
-- [Evolución de la pobreza monetaria en Colombia: Un análisis de descomposiciones](https://doi.org/10.24215/18521649e026)
+- [Menduiña, J. (2022). Evolución de la pobreza monetaria en Colombia: Un análisis de descomposiciones](https://doi.org/10.24215/18521649e026)  
   *Revista Económica, Facultad de Ciencias Económicas, Universidad Nacional de La Plata*
 
 <div align="center">
