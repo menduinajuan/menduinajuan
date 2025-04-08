@@ -24,7 +24,7 @@
 
 ## 📝 Publicaciones Científicas / Scientific Publications
 
-- [Glüzmann, P., Menduiña, J., Monzón, N., Panigo, D. T., Panigo, N., Tcach, A. y Úngaro, A. (2023). Accelerating Economic Research with Julia](http://dx.doi.org/10.13140/RG.2.2.32709.05604)  s
+- [Glüzmann, P., Menduiña, J., Monzón, N., Panigo, D. T., Panigo, N., Tcach, A. y Úngaro, A. (2023). Accelerating Economic Research with Julia](http://dx.doi.org/10.13140/RG.2.2.32709.05604)  
   *JuliaCon 2023, Massachusets Institute of Technology (MIT), Boston, US*
 - [Cruces, G., Martínez-Correa, J., Menduiña, J. y Puig, J. (2022). Simulations of Policy Responses During the COVID-19 Crisis in Argentina: Effects on Socioeconomic Indicators](https://www.microsimulation.pub/articles/00269)  
   *International Journal of Microsimulation*
@@ -37,7 +37,7 @@
 </div>
 
 ## 🌐 Contacto / Contact
-- LinkedIn: [https://www.linkedin.com/in/menduinajuan/](https://www.linkedin.com/in/menduinajuan/)
 - E-Mail: [menduinajuan@gmail.com](mailto:menduinajuan@gmail.com)
+- LinkedIn: [https://www.linkedin.com/in/menduinajuan/](https://www.linkedin.com/in/menduinajuan/)
 - GitHub: [github.com/menduinajuan](https://github.com/menduinajuan)
 - GitLab: [gitlab.com/menduinajuan](https://gitlab.com/menduinajuan)
