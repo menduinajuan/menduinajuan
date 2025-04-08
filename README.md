@@ -24,7 +24,7 @@
 
 ## 📝 Publicaciones Científicas / Scientific Publications
 
-- [Accelerating Economic Research with Julia](http://dx.doi.org/10.13140/RG.2.2.32709.05604)
+- [Accelerating Economic Research with Julia](http://dx.doi.org/10.13140/RG.2.2.32709.05604)  
   *JuliaCon 2023, Massachusets Institute of Technology (MIT), Boston, US*
 - [Simulations of Policy Responses During the COVID-19 Crisis in Argentina: Effects on Socioeconomic Indicators](https://www.microsimulation.pub/articles/00269)  
   *International Journal of Microsimulation*
