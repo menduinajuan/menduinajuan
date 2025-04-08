@@ -24,6 +24,8 @@
 
 ## 📝 Publicaciones Científicas / Scientific Publications
 
+- [Accelerating Economic Research with Julia](http://dx.doi.org/10.13140/RG.2.2.32709.05604)
+  *JuliaCon 2023, Massachusets Institute of Technology (MIT), Boston, US*
 - [Simulations of Policy Responses During the COVID-19 Crisis in Argentina: Effects on Socioeconomic Indicators](https://www.microsimulation.pub/articles/00269)  
   *International Journal of Microsimulation*
 - [Evolución de la pobreza monetaria en Colombia: Un análisis de descomposiciones](https://doi.org/10.24215/18521649e026)  
@@ -35,7 +37,7 @@
 </div>
 
 ## 🌐 Contacto / Contact
-- LinkedIn: [https://www.linkedin.com/in/juan-mendui%C3%B1a-17807b18b/](https://www.linkedin.com/in/juan-mendui%C3%B1a-17807b18b/)
+- LinkedIn: [https://www.linkedin.com/in/juan-mendui%C3%B1a-17807b18b/](https://www.linkedin.com/in/menduinajuan/)
 - E-Mail: [menduinajuan@gmail.com](mailto:menduinajuan@gmail.com)
 - GitHub: [github.com/menduinajuan](https://github.com/menduinajuan)
 - GitLab: [gitlab.com/menduinajuan](https://gitlab.com/menduinajuan)
