@@ -37,7 +37,7 @@
 </div>
 
 ## 🌐 Contacto / Contact
-- LinkedIn: [https://www.linkedin.com/in/juan-mendui%C3%B1a-17807b18b/](https://www.linkedin.com/in/menduinajuan/)
+- LinkedIn: [https://www.linkedin.com/in/menduinajuan/](https://www.linkedin.com/in/menduinajuan/)
 - E-Mail: [menduinajuan@gmail.com](mailto:menduinajuan@gmail.com)
 - GitHub: [github.com/menduinajuan](https://github.com/menduinajuan)
 - GitLab: [gitlab.com/menduinajuan](https://gitlab.com/menduinajuan)
