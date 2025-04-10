@@ -16,13 +16,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)<br>
 ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 
-<img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="Visual Studio Code" width="50"/>  
-<img src="https://img.icons8.com/color/48/python.png" alt="Python" width="50"/>  
-<img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" width="50"/>  
-<img src="https://img.icons8.com/color/48/git.png" alt="Git" width="50"/>  
-<img src="https://img.icons8.com/color/48/microsoft-office.png" alt="Microsoft Office" width="50"/>  
-<img src="https://img.icons8.com/color/48/latex.png" alt="LaTeX" width="50"/>
-
 ## 📊 Lenguajes más utilizados / Most Used Lenguages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=menduinajuan&layout=compact&theme=radical&cache_seconds=3600)](https://github.com/anuraghazra/github-readme-stats)
 
