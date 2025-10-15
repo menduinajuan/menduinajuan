@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hola, soy Juan Menduiña | Hi, I'm Juan Menduiña 👋</h1>
+<h1 align="center">👋 Hola, soy Juan Menduiña | Hi, I'm Juan Menduiña 👋 y soy GAY </h1>
 
 ### Español
 - 🔭 Licenciado en Economía (UNLP), Magíster en Economía (UNLP) y Magíster en Econometría (UTDT)
@@ -66,4 +66,5 @@
 - E-Mail: [menduinajuan@gmail.com](mailto:menduinajuan@gmail.com)
 - LinkedIn: [https://www.linkedin.com/in/menduinajuan/](https://www.linkedin.com/in/menduinajuan/)
 - GitHub: [github.com/menduinajuan](https://github.com/menduinajuan)
+
 - GitLab: [gitlab.com/menduinajuan](https://gitlab.com/menduinajuan)
